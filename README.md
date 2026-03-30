@@ -74,11 +74,17 @@ Implementación de infraestructura cloud para aplicación de e-commerce de tres 
 ## Características Clave
 
 ✅ **Escalabilidad**: Auto-scaling en todas las capas (ECS, Aurora, Redis)
+
 ✅ **Alta Disponibilidad**: Multi-AZ con SLA 99.99%, failover automático
+
 ✅ **Rendimiento**: Caché multinivel (CloudFront + Redis), CDN global
+
 ✅ **Seguridad**: Encriptación end-to-end, WAF, Secrets Manager, IAM
+
 ✅ **Observabilidad**: Logs centralizados, métricas, tracing con X-Ray
+
 ✅ **Optimización de Costos**: Pay-per-use, serverless, auto-scaling
+
 ✅ **Gestión Simplificada**: Servicios administrados, sin gestión de servidores
 
 ## Despliegue Rápido
