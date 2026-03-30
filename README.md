@@ -227,7 +227,6 @@ El proyecto está preparado para integración con:
 
 - **GitHub Actions**: Workflows en `.github/workflows/`
 - **AWS CodePipeline**: Pipeline de despliegue automatizado
-- **Terraform Cloud**: State management remoto y colaborativo
 
 ### Monitoreo Continuo
 - Métricas en tiempo real
