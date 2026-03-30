@@ -6,7 +6,7 @@ Implementación de infraestructura cloud para aplicación de e-commerce de tres 
 
 ## Arquitectura Propuesta
 
-![Diagrama de Arquitectura JFC E-Commerce](./JFC.jpg)
+![Diagrama de Arquitectura JFC E-Commerce](./JFC/JFC.jpg)
 
 ### Componentes Principales
 
